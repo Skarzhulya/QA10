@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Artifact selenium-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/Artifact selenium-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Artifact selenium-tests .iml" filepath="$PROJECT_DIR$/.idea/modules/Artifact selenium-tests .iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Artifact_selenium-tests__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Artifact_selenium-tests__main.iml" group="Artifact selenium-tests " />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Artifact_selenium-tests__test.iml" filepath="$PROJECT_DIR$/.idea/modules/Artifact_selenium-tests__test.iml" group="Artifact selenium-tests " />
     </modules>
   </component>
 </project>
